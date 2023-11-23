@@ -8,7 +8,6 @@ char ** kopioi_mjt(char **mjt, size_t lkm)
 {
     char **x = malloc(lkm*sizeof(char *));
     int i = 0;
-    char **y;
 
     for (i = 0; i < lkm ; ++i)
     {
@@ -17,7 +16,4 @@ char ** kopioi_mjt(char **mjt, size_t lkm)
         strcpy(x[i], mjt[i]);
     }
     return x;
-
-
-
 }
