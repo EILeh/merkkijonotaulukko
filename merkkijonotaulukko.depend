@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700745138 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\merkkijonotaulukko\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mjonot.h"
+
+1700745174 c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\merkkijonotaulukko\mjonot.h
+
+1700746128 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\merkkijonotaulukko\mjonot.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"mjonot.h"
+
